@@ -20,7 +20,7 @@ As a backend developer, I am familiar with various technologies, and here are so
   - Fastify
   - Next.js
 
-- **ORM**
+- **ORM:**
   - Prisma 
 
 - **Database:**
