@@ -1,6 +1,6 @@
 # Vicente Sanchez - JavaScript Backend Developer
 
-Hi there 👋! I'm Vicente Sanchez, a passionate 14y backend developer focusing on JavaScript technologies. Below, you'll find information about the technologies I use and a bit about myself.
+Hello 👋! I'm Vicente Sanchez, a passionate backend developer, I have 14 years focusing on JavaScript technologies. Below you will find information about the technologies I use and a little about me.
 
 ## About Me
 - **Name:** Vicente Sanchez
