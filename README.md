@@ -47,7 +47,7 @@ As a backend developer, I am familiar with various technologies, and here are so
 
 ## Contact
 - **Email:** [vikom.sanchez@gmail.com](mailto:vikom.sanchez@gmail.com)
-- **LinkedIn:** [Vicente Sanchez](https://www.linkedin.com/in/vicente-sanchez-8b4243295/)
+- **LinkedIn:** [Vicente Sanchez](https://www.linkedin.com/in/vicentesan)
 <!-- 
 ## Contributions
 - [Project/Open Source Contribution 1](link to the contribution): Brief description of the contribution.
