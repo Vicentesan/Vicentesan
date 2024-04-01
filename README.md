@@ -10,12 +10,15 @@ Hello 👋! I'm Vicente Sanchez, a passionate backend developer, I'm 14 years ol
 ## Technologies and Skills
 As a backend developer, I am familiar with various technologies, and here are some of them:
 
+- **Runtime Environments:**
+  - Node.Js
+  - BunJs
+
 - **Programming Languages:**
   - JavaScript
   - Typescript
 
 - **Libraries and Frameworks:**
-  - Node.js
   - Express.js
   - Fastify
   - Next.js
