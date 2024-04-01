@@ -24,7 +24,8 @@ As a backend developer, I am familiar with various technologies, and here are so
   - Next.js
 
 - **ORM:**
-  - Prisma 
+  - Prisma
+  - Drizzle
 
 - **Database:**
   - PostgreSql
@@ -33,6 +34,7 @@ As a backend developer, I am familiar with various technologies, and here are so
 
 - **Data Validation:**
   - Zod
+  - TypeBox
 
 - **Communication between Services:**
   - TRPC
