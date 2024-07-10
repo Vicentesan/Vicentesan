@@ -1,6 +1,6 @@
 # Vicente Sanchez - JavaScript Backend Developer
 
-Hello 👋! I'm Vicente Sanchez, a passionate backend developer, I'm 14 years old and I focus on JavaScript technologies. Below you will find information about the technologies I use and a little about me.
+Hello 👋! I'm Vicente Sanchez, a passionate backend developer, I'm 15 years old and I focus on JavaScript technologies. Below you will find information about the technologies I use and a little about me.
 
 ## About Me
 - **Name:** Vicente Sanchez
