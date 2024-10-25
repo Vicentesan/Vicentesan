@@ -51,7 +51,7 @@ As a backend developer, I am familiar with various technologies, and here are so
 !-->
 
 ## Contact
-- **Email:** [vikom.sanchez@gmail.com](mailto:vikom.sanchez@gmail.com)
+- **Email:** [hello@vicentesan.dev](mailto:hello@vicentesan.dev)
 - **LinkedIn:** [Vicente Sanchez](https://www.linkedin.com/in/vicentesan)
 <!-- 
 ## Contributions
