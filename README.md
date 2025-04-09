@@ -8,7 +8,7 @@ Hello! I'm Vicente, a Full Stack Developer from Brazil, passionate about craftin
 
 I'm focused on building innovative and efficient solutions. My journey started during the pandemic, and I'm committed to open collaboration.
 
-## Current Project: [Palmares](https://github.com/palmaresHQ/palmares)
+## Current Building: [Palmares](https://github.com/palmaresHQ/palmares)
 
 *   A TypeScript framework to unify the JS ecosystem, aiming to provide a 100% type-safe backend solution.
 *   Inspired to surpass NestJS with its innovative approach.
