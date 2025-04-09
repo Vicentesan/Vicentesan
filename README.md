@@ -13,11 +13,6 @@ I'm focused on building innovative and efficient solutions. My journey started d
 *   A TypeScript framework to unify the JS ecosystem, aiming to provide a 100% type-safe backend solution.
 *   Inspired to surpass NestJS with its innovative approach.
 
-## Tech Stack
-
-*   **Languages:** TypeScript, JavaScript
-*   **Backend:** Node.js, Bun.js, Express.js, Fastify, Prisma, Drizzle, PostgreSQL, MySQL, SQLite, Zod, TypeBox, tRPC, Docker, Git, Vitest
-
 ## Connect With Me
 
 *   **Email:** [hello@vicentesan.dev](mailto:hello@vicentesan.dev)
